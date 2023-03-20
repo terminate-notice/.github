@@ -1,0 +1,48 @@
+{
+  "projectName": "terminate-notice",
+  "projectOwner": "terminate-notice",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "profile/README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "JonTheNiceGuy",
+      "name": "Jon \"The Nice Guy\" Spriggs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228671?v=4",
+      "profile": "https://jon.sprig.gs/",
+      "contributions": [
+        "code",
+        "ideas",
+        "plugin",
+        "tool"
+      ]
+    },
+    {
+      "login": "mohclips",
+      "name": "mohclips",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11463820?v=4",
+      "profile": "https://about.me/nicholascross",
+      "contributions": [
+        "ideas",
+        "mentoring",
+        "research"
+      ]
+    },
+    {
+      "login": "michalzxc",
+      "name": "michalzxc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1896427?v=4",
+      "profile": "https://github.com/michalzxc",
+      "contributions": [
+        "platform"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
