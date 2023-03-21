@@ -32,6 +32,10 @@ This code is released under the MIT license.
 * Found a security issue? Please
 [contact me directly](mailto:jon@sprig.gs?subject=terminate-notice-security).
 
+## Icon and Image Attribution
+
+Project logo: [Target icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/target)
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -60,7 +64,3 @@ This code is released under the MIT license.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Icon and Image Attribution
-Project logo: [Target icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/target)
-
