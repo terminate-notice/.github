@@ -60,3 +60,7 @@ This code is released under the MIT license.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Icon and Image Attribution
+Project logo: [Target icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/target)
+
